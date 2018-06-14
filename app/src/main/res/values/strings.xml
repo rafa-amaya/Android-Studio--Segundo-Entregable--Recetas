@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Recetas</string>
+    <string name="receta">Receta</string>
+    <string name="about">About Us</string>
+    <string name="lema">Las mejores recetas Como las Suele Hacer mama</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ingredientes">Ingredientes</string>
+
+    <string name="receta_titulo">Tarta de chocolate sin</string>
+    <string name="receta_tipo">Postre</string>
+    <string name="receta_ingredientes">2 pechugas de pollo  12 fetas de tocino ahumado  1/3 taza vino blanco  Aceite de oliva c/n  Sal c/n  Pimienta c/n  Salsa :  200 ml. de crema de leche  150 gr. de roquefort  1 cdita. de almidón diluid</string>
+    <string name="receta_receta">
+    Mezclar en un bowl manteca y azúcar y luego agregar los huevos de a uno junto a la esencia de vainilla.
+    Incorporar todos los ingredientes secos y formar una masa.
+    Colocarla en heladera por 1 hora.
+    Estirar la masa y cortar círculos y en el medio cortar corazones.	Colocar las cookies en una fuente para horno y cocinar 10 minutos a 200º
+    Disolver la gelatina en 200 cc de agua tibia.
+    Rellenar los corazones con la gelatina.
+    Mezclar en un bowl manteca y azúcar y luego agregar los huevos de a uno junto a la esencia de vainilla.
+    Incorporar todos los ingredientes secos y formar una masa.
+    Colocarla en heladera por 1 hora.
+    Estirar la masa y cortar círculos y en el medio cortar corazones.	Colocar las cookies en una fuente para horno y cocinar 10 minutos a 200º
+    Disolver la gelatina en 200 cc de agua tibia.
+    Rellenar los corazones con la gelatina.</string>
+
+
+    <string name="receta_titulo2">Receta de Crespells</string>
+    <string name="receta_tipo2">Postre</string>
+    <string name="receta_ingredientes2">100 Mililitros de Zumo de naranja
+100 Mililitros de Agua
+300 Gramos de Manteca de cerdo
+600 Gramos de Harina
+200 Gramos de Azúcar glass
+4 Yemas de huevo</string>
+    <string name="receta_receta2">
+        Mezlcla todos los ingredientes menos la harina.
+Añade la harina poco a poco y puede que la absorba toda o que necesite más.
+Amasa todo el conjuto y cuando la masa ya no se te pegue a las manos envuélvela en film y deja reposar.
+Lamina la masa con un rodillo (5 mm de grosor) y corta las formas que más te gusten.
+Mete al horno 180 grados unos 15/20 minutos o hasta que estén duros.
+.</string>
+
+
+    <string name="receta_titulo3">Receta de Merluza a la donostiarra</string>
+    <string name="receta_tipo3">Pescados y mariscos</string>
+    <string name="receta_ingredientes3">8 lomos o colas de merluza
+4 dientes de ajo
+1 guindilla
+Aceite de oliva virgen
+1 Cucharadita de pimentón dulce
+0.5 cebolla
+2 Cucharaditas de vinagre
+perejil</string>
+    <string name="receta_receta3">
+    Comenzaremos precalentando el horno a 200ºC y sazonando el pescado. Cuando el horno esté caliente, metemos el pescado con la piel hacia abajo en una bandeja de horno. Le echamos un buen chorro de aceite de oliva a todo el pescado y lo dejamos que se hornee unos 20 minutos más o menos. Hasta que veas que está hecho.
+Mientras, en una sartén con aceite abundante, sofreiremos el ajo laminado y la guindilla. Ponlo a fuego medio vigilando que no se te queme. Echamos la cebolla también para que se poche ligeramente. Cuando el ajo esté dorado, bajamos el fuego y echamos el vinagre y el pimentón, yo use dulce pero si eres de mucho picante echale picante. Añadimos también el perejil picadito y dejamos que se cocine unos instantes. Si quieres que reduzca no tienes mas que subir el fuego (vigilando que el ajo no se queme o estropearia el plato!)..</string>
+
+
+    <string name="receta_titulo5">Receta de Pollo asado con vino blanco</string>
+    <string name="receta_tipo5">Carnes</string>
+    <string name="receta_ingredientes5">3 patata
+1 cebolla
+ajo en polvo
+1 Taza de vino blanco
+2 Traseros de pollo
+Sal
+Oregano
+Aceite de oliva</string>
+    <string name="receta_receta4">
+Comenzamos por echar aceite de oliva por toda la bandeja de horno que vayamos a usar. Seguido a esto, cortamos las patatas y la cebolla en láminas de medio centímetro de grosor, mas o menos, y las extendemos por toda la bandeja. Salpimentamos las patatas al gusto y añadimos un buen chorro de aceite de oliva por encima. Echamos el vino por encima también.
+
+
+Tal cual, sin rodaballo, metemos la bandeja al horno uinos 15 mins a 180ºC para que se evapore el alcohol. Pasado este rato, sacamos la bandeja y metemos el rodaballo. Le hacemos unas pequeñas rajas en los lomos para que se cocine mejor. Salpimentamos ligeramente. Lo cocineramos al horno unos 20 mins ahora a 150ºC.</string>
+
+
+    <string name="receta_titulo4">Receta de Rodaballo con patatas panadera</string>
+    <string name="receta_tipo4">Pescados y mariscos</string>
+    <string name="receta_ingredientes4">1 rodaballo grande
+2 patatas grandes
+3 dientes de ajo
+aceite de oliva
+perejil
+1 cebolla
+1 Taza de vino blanco</string>
+    <string name="receta_receta5">
+Cogemos tres patatas y una cebolla y las pelamos, en el fondo de la fuente de horno le pongo un chorrito de aceite de oliva y lo extiendo bien, cortamos las patatas en rodajas muy finitas y vamos colocando, le echo sal y un poco de ajo en polvo pero va en gustos, a continuación pongo la cebolla por encima también muy finita, previamente he puesto el horno a calentar. Le añado un poco del vaso de vino.
+
+
+Salpimentamos el pollo por los dos lados y lo colocamos encima, yo coloco primero la parte de la piel para abajo, de esta manera al darle la vuelta a parte de hacerse por el otro lado la piel queda crujiente, le pongo un poco de orégano y lo riego con otro poquito de vino blanco, lo meto al horno a 200° , cuando vemos que ya está dorado por ese lado le damos la vuelta y terminamos de regar con el vino, en total de vino es un vaso pero que no sea muy pequeño, no os preocupéis por que al hervir se va el alcohol.
+
+
+Cuando la piel este crujientita se puede sacar el tiempo total más o menos es una hora y media o así, pero vamos como siempre va en gustos si os gusta mas pasado.</string>
+
+
+</resources>
