@@ -47,6 +47,10 @@ public class Adapter_Receta extends RecyclerView.Adapter {
             return 0;
         }
     }
+    public void listafiltrada (ArrayList<Receta> recetasfiltradas){
+        recetas = recetasfiltradas;
+        notifyDataSetChanged();
+    }
 
     public class ViewHolderReceta extends RecyclerView.ViewHolder{
         private CardView cardView;

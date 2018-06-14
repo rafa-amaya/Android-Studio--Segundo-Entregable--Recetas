@@ -20,8 +20,6 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener,Fragment_Receta.NotificadorContacto {
     private NavigationView navigationView;
     private DrawerLayout drawerLayout;
-    private EditText editText;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,7 +27,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         setContentView(R.layout.activity_main);
         navigationView = findViewById(R.id.navigation_view);
         drawerLayout = findViewById(R.id.drawer_layout);
-        editText = findViewById(R.id.fragment_receta_edittext);
         navigationView.setNavigationItemSelectedListener(this);
 
 
